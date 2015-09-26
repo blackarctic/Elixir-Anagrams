@@ -1,6 +1,6 @@
 defmodule Dictionary do
 	 
-	 @name {:global, __MODULE__}
+	 @name {:global, __MODULE__}  # can be run on multiple nodes
 
 	 ##
 	 # External API
